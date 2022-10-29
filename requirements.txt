@@ -1,0 +1,4 @@
+tensorflow
+transformers
+gradio
+python-dotenv
