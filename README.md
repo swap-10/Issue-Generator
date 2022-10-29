@@ -1,13 +1,4 @@
----
-title: Github Issues Generator
-emoji: ⚡
-colorFrom: yellow
-colorTo: green
-sdk: gradio
-sdk_version: 3.6
-app_file: app.py
-pinned: false
-license: creativeml-openrail-m
----
+# Issues Generator
+Generating GitHub Issues and PR style text on a custom-built dataset by transfer learning (fine-tuning) GPT-2
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Deployed on [HuggingFace Spaces](https://huggingface.co/spaces/swapnalvarma/github_issues_generator)
